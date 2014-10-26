@@ -4,5 +4,10 @@ This is the initial repository for gitHub.  Its only purpse is to familiarize me
 
 10:25 PM 10/9/2014
 the first line still makes each new entry timestamped,
+This is an H1
+=============
+
+This is an H2
+-------------
 
 
